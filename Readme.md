@@ -8,7 +8,7 @@ This project demonstrates a well-structured and feature-rich web-based game, des
 - Dynamic updates with JavaScript.
 - Persistent data storage using `localStorage`.
 
-Deployed version: [Rock-Paper-Scissors Game](https://rock-paper-scissor03.netlify.app/)
+Deployed version: [Rock-Paper-Scissors Game](https://rock-paper-scissors30.netlify.app/)
 
 ---
 
