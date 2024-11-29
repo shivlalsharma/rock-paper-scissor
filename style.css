@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0,0.2);
+    z-index: -1;
+    padding: 10px;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.choice{
+    margin-inline: 5px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
+
+#Paper{
+    transform: rotate(-90deg);
+}
+
+#Scissor{
+    width: 85px;
+    height: 85px;
+    transform: rotate(-90deg);
+}
+
+.winning-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+.msg-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-block: 50px;
+}
+
+#game-status{
+    padding: 7px 20px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 17px;
+    background-color: #0059ff;
+    color: #fff;
+}
+
+#winning-info{
+    display: none;
+    background-color: #00a098;
+    padding: 5px 10px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+.score-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#user-score{
+    font-weight: bold;
+    color: #ff009d;
+}
+
+#comp-score{
+    font-weight: bold;
+    color: #5d00ff;
+}
+
+.player-name{
+    color: #9d3707;
+}
+
+#clear-History{
+    background-color: #f00;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 7px 20px;
+    font-size: 17px;
+    border-radius: 5px;
+    margin-block: 20px;
+    cursor: pointer;
+}
