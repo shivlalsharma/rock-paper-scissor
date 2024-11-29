@@ -56,8 +56,8 @@ To run the Rock Paper Scissor locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/shivlalsharma/rock-paper-scissor.git
-    cd rock-paper-scissor
+    git clone https://github.com/shivlalsharma/rock-paper-scissors.git
+    cd rock-paper-scissors
     ```
 
 2. Open the `index.html` file in your browser.
