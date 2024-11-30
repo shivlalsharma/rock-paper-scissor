@@ -54,13 +54,13 @@ Deployed version: [Rock-Paper-Scissors Game](https://rock-paper-scissors30.netli
 
 follow these steps to run the Rock Paper Scissors locally:
 
-1. Clone the repository:
+1. **Clone the repository**:
     ```bash
     git clone https://github.com/shivlalsharma/rock-paper-scissors.git
     cd rock-paper-scissors
     ```
 
-2. Open the `index.html` file in your browser.
+2. **Open the `index.html` file in your browser**.
 
    Alternatively, you can set up a local server (e.g., using **VS Code Live Server**) to view the game in your browser.
 
