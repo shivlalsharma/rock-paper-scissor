@@ -52,7 +52,7 @@ Deployed version: [Rock-Paper-Scissors Game](https://rock-paper-scissors30.netli
 
 ## Installation
 
-To run the Rock Paper Scissor locally:
+follow these steps to run the Rock Paper Scissors locally:
 
 1. Clone the repository:
     ```bash
@@ -67,3 +67,9 @@ To run the Rock Paper Scissor locally:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Created and deployed by **Shivlal Sharma**.  
+- **GitHub**: [Shivlal Sharma's GitHub](https://github.com/shivlalsharma)
+- **LinkedIn**: [Shivlal Sharma's LinkedIn](https://www.linkedin.com/in/shivlal-sharma-56ba5a284/)
